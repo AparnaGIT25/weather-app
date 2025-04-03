@@ -1,2 +1,2 @@
-# weather-app
-weather app using basic html css js
+# notes-app
+notes app using basic html css js
